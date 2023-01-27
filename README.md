@@ -1,5 +1,5 @@
 # gnome-asia-2022-notes
-Notes taken on [GNOME Asia Summit 2022](https://events.gnome.org/event/100) - Kuala Lumpur (iSqure VASD on 2-4 Dec 2022)
+Notes taken on [GNOME Asia Summit 2022](https://events.gnome.org/event/100) - Kuala Lumpur (iSpace VASD on 2-4 Dec 2022)
 
 ## Interesting Links taken from Sessions
 
